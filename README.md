@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @pragadeeshwaran04
+- Hi, I’m @pragadeeshwaran04
 - Certified System Architect
